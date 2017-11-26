@@ -4,6 +4,7 @@ Resources for preparation to pass AWS certifications.
 ## Blogs
 - [AWS News Blog](https://aws.amazon.com/blogs/aws/)
 - [Last Week in AWS](https://lastweekinaws.com/)
+- [Werner Vogel's blog](http://www.allthingsdistributed.com/)
 
 ## Podcasts
 - AWS: [AWS Podcast](https://itunes.apple.com/gb/podcast/aws-podcast/id1122785133?mt=2)
