@@ -36,7 +36,6 @@ Resources for preparation to pass AWS certifications.
 - YouTube/ElastiCache: [ElastiCache Deep Dive: Best Practices and Usage Patterns | AWS re:Invent 2016](https://www.youtube.com/watch?v=e9sN15a7utI)
 - YouTube/DR: [Deploying a Disaster Recovery Site on AWS | AWS re:Invent 2015](https://www.youtube.com/watch?v=bXrGUlgbl-s)
 - YouTube/Route53: [Route 53 Deep Dive: Delivering Resiliency, Minimizing Latency | AWS re:Invent 2014](https://www.youtube.com/watch?v=f9y-T7mQVxs)
-- YouTube/Security: [The AWS Philosophy of Security | AWS re:Invent 2017](https://www.youtube.com/watch?v=KJiCfPXOW-U)
 - YouTube/Architecture: [This Is My Architecture - Most innovative storage solutions | AWS re:Invent 2017](https://www.youtube.com/watch?v=EidWYzvlbgQ)
 - YouTube/Architecture: [Digital Transformation | AWS re:Invent 2017](https://www.youtube.com/watch?v=aLSFGLJ6Byo)
 
